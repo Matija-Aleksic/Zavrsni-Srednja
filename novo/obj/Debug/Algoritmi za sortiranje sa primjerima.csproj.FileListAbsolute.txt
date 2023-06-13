@@ -1,0 +1,37 @@
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\bin\Debug\novo.exe.config
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\bin\Debug\novo.exe
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\bin\Debug\novo.pdb
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\AlgoZaSort.Form1.resources
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\AlgoZaSort.Properties.Resources.resources
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.GenerateResource.Cache
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.exe
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.pdb
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.exe.config
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\obj\Debug\novo.exe
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\obj\Debug\novo.pdb
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.exe
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.pdb
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csprojResolveAssemblyReference.cache
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\obj\Debug\AlgoZaSort.Form1.resources
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\obj\Debug\AlgoZaSort.Properties.Resources.resources
+C:\Users\matij\Documents\Visual Studio 2012\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.GenerateResource.Cache
+D:\skola\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.exe.config
+D:\skola\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.exe
+D:\skola\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.pdb
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.AssemblyReference.cache
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\AlgoZaSort.Form1.resources
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\AlgoZaSort.Properties.Resources.resources
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.GenerateResource.cache
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.CoreCompileInputs.cache
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\novo.exe
+D:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\novo.pdb
+E:\skola\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.exe.config
+E:\skola\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.exe
+E:\skola\Aleksic_Zavrsni_FINAL\novo\bin\Debug\novo.pdb
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.AssemblyReference.cache
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\AlgoZaSort.Form1.resources
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\AlgoZaSort.Properties.Resources.resources
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.GenerateResource.cache
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\Algoritmi za sortiranje sa primjerima.csproj.CoreCompileInputs.cache
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\novo.exe
+E:\skola\Aleksic_Zavrsni_FINAL\novo\obj\Debug\novo.pdb

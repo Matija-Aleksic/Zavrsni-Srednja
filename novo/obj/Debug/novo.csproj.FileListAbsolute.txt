@@ -1,0 +1,9 @@
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\bin\Debug\novo.exe.config
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\bin\Debug\novo.exe
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\bin\Debug\novo.pdb
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.Properties.Resources.resources
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.csproj.GenerateResource.Cache
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.exe
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.pdb
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.csprojResolveAssemblyReference.cache
+C:\Users\matij\Documents\Visual Studio 2012\novo\novo\obj\Debug\novo.Form1.resources
